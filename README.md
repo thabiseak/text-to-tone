@@ -22,6 +22,3 @@ This Flutter project demonstrates Text To Speech Feature with All it's core func
 ## Contribution
 Contributions are welcome! Open issues or pull requests for improvements.
 
-## License
-MIT License.
-
